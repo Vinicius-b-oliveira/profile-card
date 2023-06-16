@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap'); /* font-family: 'Kumbh Sans', sans-serif; ---> 18px */
+
+main {
+    font-family: 'Kumbh Sans', sans-serif;
+    background-color: var(--primary-bg-color);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.profile-card {
+    background-color: #ffffff;
+    max-width: 350px;
+    border-radius: 15px;
+}
+
+.profile-card .top-card-bg-pattern {
+    align-self: flex-start;
+    border-radius: 15px 15px 0 0;
+    width: 100%;
+}
+
+.profile-card .infos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    padding: 67px 0 25px 0;
+    border-bottom: 1px solid var(--neutral-soft-color);
+}
+
+.profile-card .infos .avatar {
+    width: 105px;
+    position: absolute;
+    border-radius: 50%;
+    border: 5px solid white;
+    top: -58px;
+}
+
+.profile-card .infos .name {
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--primary-strong-color);
+    margin-bottom: 8px;
+}
+
+.profile-card .infos .name .age{
+    margin-left: 5px;
+    color: var(--primary-soft-color);
+    font-weight: 400;
+}
+
+.profile-card .infos .location {
+    font-size: 14px;
+    color: var(--neutral-soft-color);
+}
+
+.profile-card .numbers {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 25px 0;
+}
+
+.profile-card .numbers > .item {
+    text-align: center;
+}
+
+.profile-card .numbers > .item > .number {
+    font-size: 19px;
+    font-weight: 700;
+    color: var(--primary-strong-color);
+}
+
+.profile-card .numbers > .item > .subtitle {
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--primary-soft-color);
+}

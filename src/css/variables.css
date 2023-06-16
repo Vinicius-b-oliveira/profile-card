@@ -1,0 +1,6 @@
+:root {
+    --primary-bg-color: hsl(185, 75%, 39%);
+    --primary-strong-color: hsl(229, 23%, 23%);
+    --primary-soft-color: hsl(227, 10%, 46%);
+    --neutral-soft-color: hsl(0, 0%, 59%); 
+}
