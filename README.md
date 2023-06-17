@@ -34,7 +34,7 @@ Essa é a minha solução para o desafio [Profile card component challenge on Fr
 ### Tecnologias
 
 - Marcação semantica com HTML 5
-- Folhas de estilo em cascata em CSS 3
+- Folhas de estilo em cascata no CSS 3
 - Estilos flexiveis usando CSS Flexbox
 - Armazenamento de prorpriedades usando variáveis CSS
 - Git para versionamento de código
