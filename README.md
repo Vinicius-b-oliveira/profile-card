@@ -72,8 +72,6 @@ Mesmo contente com o resultado obtido, acredito que o "Clean Code" ainda é algo
 - Github - [Vinicíus Bueno](https://github.com/Vinicius-b-oliveira)
 - Frontend Mentor - [Vinicíus Bueno](https://www.frontendmentor.io/profile/Vinicius-b-oliveira)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Agradecimentos
 
 Projeto realizado durante o curso de programação [Dev Quest](https://devemdobro.com/matriculas-abertas/) sobre mentoria dos gêmeos Ricardo Dias e Roberto Dias. 
